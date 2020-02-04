@@ -22,15 +22,16 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.
 
-**_Windows 10 desktop environment_**
+**_Windows 10 desktop environment_** <br />
 **[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment
 **[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment
 **[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection
 
-**_Windows 10 user interface management_**
+**_Windows 10 user interface management_** <br />
 **[ ⊞ ]** + **[ M ]** : minimize everything
+**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between **_Restore_**, **_Move_**, **_Size_**, **_Minimize_**, **_Maximize_**, **_Close_**
 
-**_Windows 10 task bar management_**
+**_Windows 10 task bar management_** <br />
 **[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar
 **[ ⊞ ]** + **[ 2 ]** : open the second application windows task bar
 **[ ⊞ ]** + **[ 3 ]** : open the third application windows task bar
@@ -40,6 +41,19 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 **[ ⊞ ]** + **[ 7 ]** : open the seventh application windows task bar
 **[ ⊞ ]** + **[ 8 ]** : open the eighth application windows task bar
 **[ ⊞ ]** + **[ 9 ]** : open the ninth application windows task bar
+**[ ⊞ ]** + **[ 0 ]** : open the ninth application windows task bar
+
+**_Windows 10 full screen management_** <br />
+**[ Alt ]** + **[ Enter ]** : full screen mode (first hit)
+**[ Alt ]** + **[ Enter ]** : exit full screen mode (second hit)
+
+**_Windows 10 screen resize management_** <br />
+**[ ⊞ ]** + **[ ← ]** : split the window active screen into half to the left
+**[ ⊞ ]** + **[ → ]** : split the window screen into half to the right
+**[ ⊞ ]** + **[ ↑ ]** : maximize the window screen
+
+**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in maximize size mode, restore it to the default size mode
+**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in default size mode, minimize it into the task bar
 
 ⊞
 **

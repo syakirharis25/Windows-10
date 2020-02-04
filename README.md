@@ -23,37 +23,37 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 ## 3. Windows 10 shortcuts.
 
 **_Windows 10 desktop environment_** <br />
-**[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment
-**[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment
-**[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection
+**[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment <br />
+**[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment <br />
+**[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection <br />
 
 **_Windows 10 user interface management_** <br />
-**[ ⊞ ]** + **[ M ]** : minimize everything
-**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between **_Restore_**, **_Move_**, **_Size_**, **_Minimize_**, **_Maximize_**, **_Close_**
+**[ ⊞ ]** + **[ M ]** : minimize everything <br />
+**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between **_Restore_**, **_Move_**, **_Size_**, **_Minimize_**, **_Maximize_**, **_Close_** <br />
 
 **_Windows 10 task bar management_** <br />
-**[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar
-**[ ⊞ ]** + **[ 2 ]** : open the second application windows task bar
-**[ ⊞ ]** + **[ 3 ]** : open the third application windows task bar
-**[ ⊞ ]** + **[ 4 ]** : open the fourth application windows task bar
-**[ ⊞ ]** + **[ 5 ]** : open the fifth application windows task bar
-**[ ⊞ ]** + **[ 6 ]** : open the sixth application windows task bar
-**[ ⊞ ]** + **[ 7 ]** : open the seventh application windows task bar
-**[ ⊞ ]** + **[ 8 ]** : open the eighth application windows task bar
-**[ ⊞ ]** + **[ 9 ]** : open the ninth application windows task bar
-**[ ⊞ ]** + **[ 0 ]** : open the ninth application windows task bar
+**[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar <br />
+**[ ⊞ ]** + **[ 2 ]** : open the second application windows task bar <br />
+**[ ⊞ ]** + **[ 3 ]** : open the third application windows task bar <br />
+**[ ⊞ ]** + **[ 4 ]** : open the fourth application windows task bar <br />
+**[ ⊞ ]** + **[ 5 ]** : open the fifth application windows task bar <br />
+**[ ⊞ ]** + **[ 6 ]** : open the sixth application windows task bar <br />
+**[ ⊞ ]** + **[ 7 ]** : open the seventh application windows task bar <br />
+**[ ⊞ ]** + **[ 8 ]** : open the eighth application windows task bar <br />
+**[ ⊞ ]** + **[ 9 ]** : open the ninth application windows task bar <br />
+**[ ⊞ ]** + **[ 0 ]** : open the ninth application windows task bar <br />
 
 **_Windows 10 full screen management_** <br />
-**[ Alt ]** + **[ Enter ]** : full screen mode (first hit)
-**[ Alt ]** + **[ Enter ]** : exit full screen mode (second hit)
+**[ Alt ]** + **[ Enter ]** : full screen mode (first hit) <br />
+**[ Alt ]** + **[ Enter ]** : exit full screen mode (second hit) <br />
 
 **_Windows 10 screen resize management_** <br />
-**[ ⊞ ]** + **[ ← ]** : split the window active screen into half to the left
-**[ ⊞ ]** + **[ → ]** : split the window screen into half to the right
-**[ ⊞ ]** + **[ ↑ ]** : maximize the window screen
+**[ ⊞ ]** + **[ ← ]** : split the window active screen into half to the left <br />
+**[ ⊞ ]** + **[ → ]** : split the window screen into half to the right <br />
+**[ ⊞ ]** + **[ ↑ ]** : maximize the window screen <br />
 
-**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in maximize size mode, restore it to the default size mode
-**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in default size mode, minimize it into the task bar
+**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in maximize size mode, restore it to the default size mode <br />
+**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in default size mode, minimize it into the task bar <br />
 
 ⊞
 **

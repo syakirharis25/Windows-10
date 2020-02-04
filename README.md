@@ -21,7 +21,6 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.
-
 **_Windows 10 desktop environment_** <br />
 **[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment <br />
 **[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment <br />

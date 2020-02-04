@@ -4,7 +4,7 @@ My works related to Microsoft Windows 10
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Bootstrap starter index.html page.](#starter)
+3. [Windows 10 shortcuts.](#shortcuts)
 4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
@@ -19,8 +19,12 @@ One of Windows 10's most notable features is its support for universal apps, an 
 Official Microsoft website : https://www.microsoft.com <br />
 Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/windows/windows-10/ <br />
 
+<a name="shortcuts"></a>
+## 3. Windows 10 shortcuts.
+[Ctrl] + [ ⊞ ] + [ D] : open new windows desktop environment
+
 <a name="github"></a>
-## 5. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Windows-10.git

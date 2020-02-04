@@ -21,7 +21,28 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.
-[Ctrl] + [ ⊞ ] + [ D] : open new windows desktop environment
+
+**_Windows 10 desktop environment_**
+**[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment
+**[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment
+**[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection
+
+**_Windows 10 user interface management_**
+**[ ⊞ ]** + **[ M ]** : minimize everything
+
+**_Windows 10 task bar management_**
+**[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar
+**[ ⊞ ]** + **[ 2 ]** : open the second application windows task bar
+**[ ⊞ ]** + **[ 3 ]** : open the third application windows task bar
+**[ ⊞ ]** + **[ 4 ]** : open the fourth application windows task bar
+**[ ⊞ ]** + **[ 5 ]** : open the fifth application windows task bar
+**[ ⊞ ]** + **[ 6 ]** : open the sixth application windows task bar
+**[ ⊞ ]** + **[ 7 ]** : open the seventh application windows task bar
+**[ ⊞ ]** + **[ 8 ]** : open the eighth application windows task bar
+**[ ⊞ ]** + **[ 9 ]** : open the ninth application windows task bar
+
+⊞
+**
 
 <a name="github"></a>
 ## 4. GitHub notes.

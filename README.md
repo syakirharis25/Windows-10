@@ -29,7 +29,7 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 
 **_Windows 10 user interface management_** <br />
 **[ ⊞ ]** + **[ M ]** : minimize everything <br />
-**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between **_Restore_**, **_Move_**, **_Size_**, **_Minimize_**, **_Maximize_**, **_Close_** <br />
+**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between _Restore_, _Move_, _Size_, _Minimize_, _Maximize_, _Close_ <br />
 
 **_Windows 10 task bar management_** <br />
 **[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar <br />

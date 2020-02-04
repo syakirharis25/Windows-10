@@ -55,8 +55,29 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 **[ ⊞ ]** + **[ ↓ ]** : if the window screen is in maximize size mode, restore it to the default size mode <br />
 **[ ⊞ ]** + **[ ↓ ]** : if the window screen is in default size mode, minimize it into the task bar <br />
 
-⊞
-**
+**_Windows 10 applications management_** <br />
+**[ Alt ]** + **[ Tab ]** : show all the running applications and choose the application from the menu 
+
+**_Windows 10 tasks management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Esc ]** : open windows task manager <br />
+
+**_Windows 10 files management_** <br />
+**[ ⊞ ]** + **[ E ]** : open windows file explorer <br />
+
+**_Windows 10 magnifier_** <br />
+**[ ⊞ ]** + **[ + ]** : open windows magnifier (first hit) <br />
+**[ ⊞ ]** + **[ + ]** : zoom in the targeted screen (after first hit) <br />
+**[ ⊞ ]** + **[ - ]** : zoom out the targeted screen <br />
+**[ ⊞ ]** + **[ Esc ]** : exit the windows 10 magnifier <br />
+
+**_Windows 10 Focus Assist_** <br />
+**[ ⊞ ]** + **[ A ]** : open windows Focus Assist menus <br />
+
+**_Windows 10 Windows Settings_** <br />
+**[ ⊞ ]** + **[ I ]** : open Windows Settings menus <br />
+
+**_Windows 10 Lock Screen_** <br />
+**[ ⊞ ]** + **[ L ]** : lock the windows screen <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.

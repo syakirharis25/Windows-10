@@ -6,6 +6,7 @@ My works related to Microsoft Windows 10
 2. [Official references websites.](#references)
 3. [Windows 10 shortcuts.](#shortcuts)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -87,3 +88,14 @@ $ cd Windows-10/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             18              0             71
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc

@@ -20,6 +20,8 @@ One of Windows 10's most notable features is its support for universal apps, an 
 Official Microsoft website : https://www.microsoft.com <br />
 Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/windows/windows-10/ <br />
 
+Enabling CTRL + C and CTRL + V in Windows 10 by How-To-Geek : https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/ <br />
+
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.
 **_Windows 10 desktop environment_** <br />

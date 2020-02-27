@@ -20,8 +20,10 @@ One of Windows 10's most notable features is its support for universal apps, an 
 Official Microsoft website : https://www.microsoft.com <br />
 Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/windows/windows-10/ <br />
 
+**_Windows 10 related articles_**
 Enabling CTRL + C and CTRL + V in Windows 10 by How-To-Geek : https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/ <br />
 How to Copy and Paste in Command Prompt on Windows 7/10 by iSumsoft : https://www.isumsoft.com/it/how-to-copy-and-paste-in-command-prompt-on-windows-7-10/ <br />
+Windows 10 tip: The fastest, smartest ways to open a Command Prompt window by ZDNet : https://www.zdnet.com/article/windows-10-tip-the-fastest-smartest-ways-to-open-a-command-prompt/ <br />
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.

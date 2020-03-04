@@ -28,7 +28,7 @@ Windows 10 tip: The fastest, smartest ways to open a Command Prompt window by ZD
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.
 **_Windows 10 desktop environment_** <br />
-**[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment <br />
+**[ Ctrl ]** + **[ ⊞ ]** + **[ D ]** : open new windows desktop environment <br />
 **[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment <br />
 **[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection <br />
 

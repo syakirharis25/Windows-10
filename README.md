@@ -24,6 +24,7 @@ Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/w
 Enabling CTRL + C and CTRL + V in Windows 10 by How-To-Geek : https://www.howtogeek.com/howto/25590/how-to-enable-ctrlv-for-pasting-in-the-windows-command-prompt/ <br />
 How to Copy and Paste in Command Prompt on Windows 7/10 by iSumsoft : https://www.isumsoft.com/it/how-to-copy-and-paste-in-command-prompt-on-windows-7-10/ <br />
 Windows 10 tip: The fastest, smartest ways to open a Command Prompt window by ZDNet : https://www.zdnet.com/article/windows-10-tip-the-fastest-smartest-ways-to-open-a-command-prompt/ <br />
+13 ways to use "Run as administrator" in Windows 10 by DIGITAL CITIZEN : https://www.digitalcitizen.life/run-as-admin <br />
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.

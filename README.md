@@ -30,6 +30,7 @@ How to Copy and Paste in Command Prompt on Windows 7/10 by iSumsoft : https://ww
 Windows 10 tip: The fastest, smartest ways to open a Command Prompt window by ZDNet : https://www.zdnet.com/article/windows-10-tip-the-fastest-smartest-ways-to-open-a-command-prompt/ <br />
 13 ways to use "Run as administrator" in Windows 10 by DIGITAL CITIZEN : https://www.digitalcitizen.life/run-as-admin <br />
 Restoring Windows Recovery Environment (WinRE) in Windows 10 by Windows OSHub : http://woshub.com/restoring-windows-recovery-environment-winre-in-windows-10/ <br />
+How to Create a Recovery Image used to Reset Windows 10 : https://www.tenforums.com/tutorials/4287-create-reset-recovery-image-windows-10-a.html <br />
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.

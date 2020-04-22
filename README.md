@@ -31,6 +31,7 @@ Windows 10 tip: The fastest, smartest ways to open a Command Prompt window by ZD
 13 ways to use "Run as administrator" in Windows 10 by DIGITAL CITIZEN : https://www.digitalcitizen.life/run-as-admin <br />
 Restoring Windows Recovery Environment (WinRE) in Windows 10 by Windows OSHub : http://woshub.com/restoring-windows-recovery-environment-winre-in-windows-10/ <br />
 How to Create a Recovery Image used to Reset Windows 10 : https://www.tenforums.com/tutorials/4287-create-reset-recovery-image-windows-10-a.html <br />
+How To Fix Slow Startup on Windows 10 by EASYTECHS TUTORIALS : https://www.easytechstutorials.com/how-to-fix-slow-startup-on-windows-10/ <br />
 
 <a name="shortcuts"></a>
 ## 3. Windows 10 shortcuts.

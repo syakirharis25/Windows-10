@@ -92,6 +92,9 @@ How To Fix Slow Startup on Windows 10 by EASYTECHS TUTORIALS : https://www.easyt
 **_Windows 10 Lock Screen_** <br />
 **[ ⊞ ]** + **[ L ]** : lock the windows screen <br />
 
+**_Windows 10 Setting management_** <br />
+**[ ⊞ ]** + **[ I ]** : open Windows Settings menu <br />
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
